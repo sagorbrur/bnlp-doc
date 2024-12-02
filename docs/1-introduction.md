@@ -15,20 +15,20 @@ BNLP is a natural language processing toolkit for Bengali Language. This tool wi
 
 ## Features
 - Tokenization
-   - [Basic Tokenizer](./docs/README.md#basic-tokenizer)
-   - [NLTK Tokenizer](./docs/README.md#nltk-tokenization)
-   - [Sentencepiece Tokenizer](./docs/README.md#bengali-sentencepiece-tokenization)
+   - [Basic Tokenizer](/docs/tokenization#basic-tokenizer)
+   - [NLTK Tokenizer](/docs/tokenization#nltk-tokenization)
+   - [Sentencepiece Tokenizer](/docs/tokenization#bengali-sentencepiece-tokenization)
 - Embeddings
-   - [Word2vec embedding](./docs/README.md#bengali-word2vec)
-   - [Fasttext embedding](./docs/README.md#bengali-fasttext)
-   - [Glove Embedding](./docs/README.md#bengali-glove-word-vectors)
-   - [Doc2vec Document embedding](./docs/README.md#document-embedding)
+   - [Word2vec embedding](/docs/word-embedding#bengali-word2vec)
+   - [Fasttext embedding](/docs/word-embedding#bengali-fasttext)
+   - [Glove Embedding](/docs/word-embedding#bengali-glove-word-vectors)
+   - [Doc2vec Document embedding](/docs/document-embedding#document-embedding)
 - Part of speech tagging
-   - [CRF-based POS tagging](./docs/README.md#bengali-crf-pos-tagging)
+   - [CRF-based POS tagging](/docs/bengali-pos-tagging)
 - Named Entity Recognition
-   - [CRF-based NER](./docs/README.md#bengali-crf-ner)
-- [Text Cleaning](./docs/README.md#text-cleaning)
-- [Corpus](./docs/README.md#bengali-corpus-class)
+   - [CRF-based NER](/docs/bengali-ner)
+- [Text Cleaning](/docs/text-cleaning)
+- [Corpus](/docs/bengali-corpus-class#bengali-corpus-class)
    - Letters, vowels, punctuations, stopwords
 
 

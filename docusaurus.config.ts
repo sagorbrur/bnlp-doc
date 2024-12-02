@@ -104,7 +104,8 @@ const config: Config = {
       copyright: `Copyright © ${new Date().getFullYear()} <a href="https://github.com/sagorbrur" target="_blank">Sagor Sarker</a>`,
     },
     prism: {
-      theme: prismThemes.github,
+      additionalLanguages: ['python', 'yaml'],
+      theme: prismThemes.dracula,
       darkTheme: prismThemes.dracula,
     },
     metadata: [
