@@ -22,13 +22,13 @@ BNLP is a natural language processing toolkit for Bengali Language. This tool wi
    - [Word2vec embedding](/docs/word-embedding#bengali-word2vec)
    - [Fasttext embedding](/docs/word-embedding#bengali-fasttext)
    - [Glove Embedding](/docs/word-embedding#bengali-glove-word-vectors)
-   - [Doc2vec Document embedding](/docs/document-embedding#document-embedding)
+   - [Doc2vec Document embedding](/docs/document-embedding#bengali-doc2vec)
 - Part of speech tagging
    - [CRF-based POS tagging](/docs/bengali-pos-tagging)
 - Named Entity Recognition
    - [CRF-based NER](/docs/bengali-ner)
 - [Text Cleaning](/docs/text-cleaning)
-- [Corpus](/docs/bengali-corpus-class#bengali-corpus-class)
+- [Corpus](/docs/bengali-corpus-class)
    - Letters, vowels, punctuations, stopwords
 
 
