@@ -5,8 +5,8 @@ This repository holds source code and publishable website for [**`BNLP`**](https
 Clone the repo:
 
 ```sh
-git clone https://github.com/sagorbrur/bnlp-docs.git
-cd bnlp-docs
+git clone https://github.com/sagorbrur/bnlp-doc.git
+cd bnlp-doc
 ```
 
 Install dependencies:
