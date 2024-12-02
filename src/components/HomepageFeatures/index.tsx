@@ -9,26 +9,18 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Tokenization',
+    title: 'Comprehensive NLP Toolkit for Bangla',
     description: (
       <>
-        Tokenize Bengali text into words.
+        BNLP offers essential tools for natural language processing in Bengali, including tokenization, stemming, and lemmatization.
       </>
     ),
   },
   {
-    title: 'Embeddings',
+    title: 'Easy Text Preprocessing',
     description: (
       <>
-        Generate embeddings for Bengali text.
-      </>
-    ),
-  },
-  {
-    title: 'Part of speech tagging',
-    description: (
-      <>
-        Tag parts of speech for Bengali text.
+        Simplify text processing tasks with intuitive API for sentence splitting, word tokenization, and stopword removal.
       </>
     ),
   },
@@ -36,26 +28,34 @@ const FeatureList: FeatureItem[] = [
     title: 'Named Entity Recognition',
     description: (
       <>
-        Identify named entities in Bengali text.
+       Identify and classify entities like names, locations, and organizations in Bengali text with built-in NER capabilities.
       </>
     ),
   },
   {
-    title: 'Text Cleaning',
+    title: 'Part-of-Speech (POS) Tagging',
     description: (
       <>
-        Clean Bengali text from noise.
+        Analyze and classify words in Bengali text by their grammatical roles.
       </>
     ),
   },
   {
-    title: 'Corpus',
+    title: 'Word Embedding Support',
     description: (
       <>
-        Create a corpus from Bengali text.
+        Utilize pretrained FastText embeddings for semantic analysis of Bengali language data.
       </>
     ),
   },
+  {
+    title: 'Open-Source and Community-Driven',
+    description: (
+      <>
+        Benefit from active development and community contributions to improve Bengali language processing.
+      </>
+    ),
+  }
 ];
 
 function Feature({title, description}: FeatureItem) {
