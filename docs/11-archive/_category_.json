@@ -1,0 +1,12 @@
+
+{
+  "label": "Archive",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Archive",
+    "description": "Here you can find version wise documentation.",
+    "slug": "/archive"
+  }
+}
